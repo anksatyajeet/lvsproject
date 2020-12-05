@@ -1,0 +1,17 @@
+tr	td {
+	border-bottom: 1px solid black;
+	padding: 16px
+}
+tr:hover {
+	background: aqua ;
+}
+.link:link	{
+	color: red	;
+}	
+.link:hover	{
+	color: blue;
+	text-transform: uppercase;
+}
+a   {
+	text-decoration: none;
+}
